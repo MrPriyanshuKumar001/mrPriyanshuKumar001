@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrpriyanshukumar001" alt="mrpriyanshukumar001" /></a> </p>
 
 🔧 Tech Stack:
+
 💻 Languages: HTML, CSS, JavaScript, Java, C++
 
 🌐 Tools & Frameworks: Node.js, Express.js, Git, GitHub
@@ -13,6 +14,7 @@
 🛠️ Currently exploring React and API integrations
 
 🎯 Goals:
+
 🌱 I’m currently learning React.js and DSA in Java
 
 🚀 My goal is to become a Frontend Developer Intern by 2025
@@ -20,6 +22,7 @@
 🧠 Working on improving my problem-solving with daily coding practice
 
 📂 Projects:
+
 ✅ Built a Weather App with live API integration
 
 🛒 Working on Amazon Clone with dynamic frontend
@@ -27,6 +30,7 @@
 🎵 Now cloning Spotify for fun & learning UI/UX design
 
 💬 Ask Me About:
+
 Frontend Web Dev
 
 Building beginner projects
